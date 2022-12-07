@@ -1,1 +1,1 @@
-asdasdasdasd
+텍스트마이닝실습예제
